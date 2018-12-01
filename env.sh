@@ -1,0 +1,4 @@
+export SPOTIFY_ID=e5ba24428ae8452899ce78586f3716f7
+export SPOTIFY_SECRET=71e18962b2e14756b19b5e00aa0b110f
+
+# sets process.env.SPOTIFY_ID = 
